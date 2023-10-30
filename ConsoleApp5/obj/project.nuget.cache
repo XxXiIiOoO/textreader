@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JJ1UDynuGb3aQYhVNJTf9D7dcnlgp2sSbVd/gI3TQfqy/7IE4YHxMSejCSTBKULX9ksNlYNZfq105a18127bpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xacha\\source\\repos\\ConsoleApp5\\ConsoleApp5\\ConsoleApp5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xacha\\.nuget\\packages\\gtanetwork.api\\0.3.7\\gtanetwork.api.0.3.7.nupkg.sha512",
+    "C:\\Users\\xacha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
